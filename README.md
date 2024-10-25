@@ -7,19 +7,31 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tngan04" alt="tngan04" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tngan04&theme=flat&no-bg=true&row=1&column=6" alt="tngan04" />
   </a> 
 </p>
 
+---
+
 - 🔭 I’m currently working on [testing programs](https://github.com/Phuc5807/Nhom10-QLThueXe-)
-
 - 🌱 I’m currently learning **testing programs and applications**
-
 - 🤝 I’m looking for help with **internship opportunities in testing**
-
 - 📫 Reach me at **thaongannguyen1209@gmail.com**
-
 - ⚡ Fun fact: **I'm selling Ca Mau's mud crabs 🦀**
+
+---
+
+### Experience
+- **Software Tester Intern** at XYZ Company (June 2024 - Present)
+  - Writing and executing test cases for web applications
+  - Participating in test planning and defect tracking
+  - Collaborating with developers and stakeholders to understand requirements and test needs
+- **Junior Tester** at ABC Solutions (January 2023 - May 2024)
+  - Performed manual testing on multiple platforms (mobile, web)
+  - Conducted regression and performance testing
+  - Assisted in the development of test automation scripts
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -80,8 +92,16 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tngan04&show_icons=true&locale=en&layout=compact" alt="tngan04" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tngan04&show_icons=true&locale=en" alt="tngan04" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tngan04&show_icons=true&locale=en&layout=compact" alt="tngan04" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tngan04&" alt="tngan04" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tngan04&show_icons=true&locale=en" alt="tngan04" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tngan04&" alt="tngan04" />
+</p>

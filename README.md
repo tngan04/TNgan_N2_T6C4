@@ -68,10 +68,10 @@
 <h2 align="center">📖 Chào Mừng Bạn Đến Với Trang Của Tôi 📖</h2>
 <br>
 <p>
-  <a href="">
-    <strong>☕ [Ngôn Ngữ] Ngôn ngữ mà tôi đã  học:JavaScript,C#,MongoDB,Java,TypeSpript,Node.,HTML,CSS....|TNgan04</strong>
+  <a>
+    <strong>☕ [Ngôn Ngữ] Ngôn ngữ mà tôi đhọc:JavaScript,C#,MongoDB,Java,TypeSpript,Node.,HTML,CSS....|TNgan04</strong>
   </a>     
-  <a href="">
+  <a>
 
   <strong>📖 [Ứng dụng học tập] Các ứng dụng tôi sử dụng: ChatGPT,Gemini,Claude AI,Youtube....
 

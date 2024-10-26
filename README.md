@@ -1,6 +1,6 @@
 <!-- TNgan04 -->
 <a href="#" target="_blank">
-  <img src="svg/tngan04.svg" width="1200" alt="tngan04-official" />
+  <img src="svg/tngan04.svg" width="1200" alt="tngan04" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -68,10 +68,10 @@
 <h2 align="center">📖 Chào Mừng Bạn Đến Với Trang Của Tôi 📖</h2>
 <br>
 <p>
-  <a>
-    <strong>☕ [Ngôn Ngữ] Ngôn ngữ mà tôi đhọc:JavaScript,C#,MongoDB,Java,TypeSpript,Node.,HTML,CSS....|TNgan04</strong>
+  <a href="">
+    <strong>☕ [Ngôn Ngữ] Ngôn ngữ mà tôi đã  học:JavaScript,C#,MongoDB,Java,TypeSpript,Node.,HTML,CSS....|TNgan04</strong>
   </a>     
-  <a>
+  <a href="">
 
   <strong>📖 [Ứng dụng học tập] Các ứng dụng tôi sử dụng: ChatGPT,Gemini,Claude AI,Youtube....
 

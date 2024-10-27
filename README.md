@@ -1,6 +1,6 @@
-<!-- tngan04 -->
+<!-- TNgan04 -->
 <a href="#" target="_blank">
-  <img src="svg/tngan04.svg" width="1200" alt="tngan04" />
+  <img src="svg/tngan04.svg" width="1200" alt="tngan" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -81,4 +81,3 @@
   <strong>📧 Hoặc Email: <a href="mailto:thaongannguyen1209@gmail.com" target="_top">thaongannguyen1209@gmail.com</a></strong>
 </p>
 <br>
-

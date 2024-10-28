@@ -1,4 +1,4 @@
-<!-- TNgan04 -->
+<!-- tngan04 -->
 <a href="#" target="_blank">
   <img src="svg/tngan.svg" width="1200" alt="tngan04" />
 </a>

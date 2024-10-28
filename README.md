@@ -1,6 +1,6 @@
 <!-- tngan04 -->
 <a href="#" target="_blank">
-  <img src="svg/tngan.svg" width="1200" alt="tngan04" />
+  <img src="svg/tngan.svg" width="1200" alt="ThaoNgan_N2_T6C4" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>

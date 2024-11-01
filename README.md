@@ -82,5 +82,5 @@
 </p>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/tngan04.svg" width="1200" alt="TNgan" />
+  <img src="tngan04.svg" width="1200" alt="TNgan" />
 </a>
